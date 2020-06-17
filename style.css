@@ -1,0 +1,275 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 8px;
+}
+.line
+{
+  border: 1px solid blue;
+  width: 53px;
+}
+.para
+{
+    font-size: 19px;
+   margin-left: 180px;
+   margin-right: 150px;
+}
+.container
+{
+    
+    width: 1381px;
+    height:500px;
+    margin-left: 140px;
+    margin-top: 40px;
+    display: flex;
+}
+.boxes
+{
+    width: 325px;
+    background-color: white;
+    border: 1px solid whitesmoke;
+    margin: 0px 10px;
+    padding: 2px;
+}
+#first 
+{
+    margin-left: 0px;
+   
+}
+#first .p0
+{
+   margin-left: 120px;
+   font-size: 31px;
+   color:#0020ff;
+}
+#first span
+{
+    font-size: 20px;
+    opacity: .3;
+    color:black;
+}
+#first .p1
+{
+   font-size: 20px;
+   text-align: center;
+   margin-top: 32px;
+}
+#first .p2
+{
+    font-size: 20px;
+    text-align: center;
+}
+#first .p3
+{
+    font-size: 20px;
+    text-align: center;
+}
+#first .p4
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+#first .p5
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+#first .upper
+{
+    background-color: #f3f3f3;
+    border: 1px solid white;
+    color: darkblue;
+    height: 70px;
+    width: 320px;
+    padding: 2px;
+}
+.upper p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.boxes .next
+{
+    
+    width: 326px;
+    height: 100px;
+    background-color: #f3f3f3;
+}
+.boxes button
+{
+    width: 230px;
+    height: 65px;
+    margin-left: 45px;
+    margin-top: 18px;
+    font-size: 19px;
+    background-color:#0020ff;
+    color: white;
+    padding: 3px;
+}
+#second .p0
+{
+   margin-left: 120px;
+   font-size: 31px;
+   color:#0020ff;
+}
+#second span
+{
+    font-size: 20px;
+    opacity: .3;
+    color:black;
+}
+#second .p1
+{
+   font-size: 20px;
+   text-align: center;
+   margin-top: 32px;
+}
+#second .p2
+{
+    font-size: 20px;
+    text-align: center;
+}
+#second .p3
+{
+    font-size: 20px;
+    text-align: center;
+}
+#second .p4
+{
+    font-size: 20px;
+    text-align: center;
+    
+}
+#second .p5
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+#second .upper
+{
+    background-color: #f3f3f3;
+    border: 1px solid white;
+    color: white;
+    background-color:#0020ff;
+    height: 70px;
+    width: 320px;
+    padding: 2px;
+}
+#third .p0
+{
+   margin-left: 120px;
+   font-size: 31px;
+   color:#0020ff;
+}
+#third span
+{
+    font-size: 20px;
+    opacity: .3;
+    color:black;
+}
+#third .p1
+{
+   font-size: 20px;
+   text-align: center;
+   margin-top: 32px;
+}
+#third .p2
+{
+    font-size: 20px;
+    text-align: center;
+}
+#third .p3
+{
+    font-size: 20px;
+    text-align: center;
+}
+#third .p4
+{
+    font-size: 20px;
+    text-align: center;
+ 
+}
+#third .p5
+{
+    font-size: 20px;
+    text-align: center;
+ 
+}
+#third .upper
+{
+    background-color: #f3f3f3;
+    border: 1px solid white;
+    color: darkblue;
+    height: 70px;
+    width: 320px;
+    padding: 2px;}
+#four .upper
+{
+    background-color: #f3f3f3;
+    border: 1px solid white;
+    color: darkblue;
+    height: 70px;
+    width: 320px;
+    padding: 2px;
+}
+#four .p0
+{
+   margin-left: 120px;
+   font-size: 31px;
+   color:#0020ff;
+}
+#four span
+{
+    font-size: 20px;
+    opacity: .3;
+    color:black;
+}
+#four .p1
+{
+   font-size: 20px;
+   text-align: center;
+   margin-top: 32px;
+}
+#four .p2
+{
+    font-size: 20px;
+    text-align: center;
+}
+#four .p3
+{
+    font-size: 20px;
+    text-align: center;
+}
+#four .p4
+{
+    font-size: 20px;
+    text-align: center;
+}
+#four .p5
+{
+    font-size: 20px;
+    text-align: center;
+}
+#four .upper
+{
+    background-color: #f3f3f3;
+    border: 1px solid white;
+    color: darkblue;
+    height: 70px;
+    width: 320px;
+    padding: 2px;
+}
